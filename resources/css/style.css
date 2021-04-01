@@ -1,0 +1,6 @@
+body {font-family:verdana;font-weight:normal;background-color: #000;text-align: center;}
+h1 {font-size:50px;text-align:center;color: #fff;}
+h2 {font-weight:300;font-size: 42px;color:#fff;}
+a {font-size: 16px; color:aquamarine;}
+p {font-size:21px; color: gray;}
+.footer p {text-align:right; color:gray;}
